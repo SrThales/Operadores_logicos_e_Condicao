@@ -1,3 +1,5 @@
+#O código abaixo é um exercício que tem como foco o recebimento de uma idade e retornar se
+#a idade é correspondente à de uma criança, adolescente ou adulto
 idade = int(input('Defina a idade do usuário:'))
 
 if (idade >= 0) and (idade <= 12):

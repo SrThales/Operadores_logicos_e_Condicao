@@ -1,3 +1,6 @@
+#O código a seguir é um exercício que tem como foco verificar a aprovação de um aluno que fez
+#3 provas com notas M1, M2 e M3 e retornar o resultado de acordo com os intervalos de notas
+#pré estabelecidas
 nota1 = float(input('Digite a nota M1:'))
 nota2 = float(input('Digite a nota M2:'))
 nota3 = float(input('Digite a nota M3:'))
